@@ -1,0 +1,15 @@
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\bin\Debug\net6.0\DelegateEventHandler.exe
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\bin\Debug\net6.0\DelegateEventHandler.deps.json
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\bin\Debug\net6.0\DelegateEventHandler.runtimeconfig.json
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\bin\Debug\net6.0\DelegateEventHandler.dll
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\bin\Debug\net6.0\DelegateEventHandler.pdb
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.csproj.AssemblyReference.cache
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.AssemblyInfoInputs.cache
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.AssemblyInfo.cs
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.csproj.CoreCompileInputs.cache
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.dll
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\refint\DelegateEventHandler.dll
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.pdb
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\DelegateEventHandler.genruntimeconfig.cache
+C:\Bijily\Projects\.Net6DelegateEventHandler\DelegateEventHandler\DelegateEventHandler\obj\Debug\net6.0\ref\DelegateEventHandler.dll
